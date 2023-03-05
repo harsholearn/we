@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+
+h1{
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: white
+}
+ h2{
+
+  font-size: 2rem;
+
+  font-family:  sans-serif;
+
+  ;
+}
+th, td, tr{
+  border-color: #96D4D4;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+    color: white
+}
+
+.top-container{background-color: #034f84;
+position: relative;
+padding-top:100px;
+padding-bottom:100px
+
+}
+.middle-container{
+  background-color: #FF5A00;
+  padding-top:50px;
+  padding-bottom:50px;
+  margin: 0 0 0 0;
+}
+.center-bottom-container{
+  background-color: #FF5A00;
+  position: relative;
+  padding-top:20px;
+    padding-bottom:20px;
+}
+
+.bottom-container{
+  background-color: #009999;
+  margin: 0 0 0 0;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+
+.profir-img{
+  border-radius: 40%;
+}
+
+.t-colud{position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.b-colud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill{
+  padding: 8px;
+  margin: 25px;
+
+ text-align:center;
+
+
+  /* other styling */
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  font-family: Avenir;
+}
+
+
+
+
+
+
+.about-me{
+  padding: 80px;
+  margin: 20px;
+
+background-color: #1239;
+ text-align:center;
+}
+
+
+.Me-table{
+  padding: 8px;
+  margin: 25px;
+
+ text-align:center;
+
+
+  /* other styling */
+  background-color: #8B008B;
+  border-radius: 10px;
+  color: white;
+  font-family: Avenir;
+}
